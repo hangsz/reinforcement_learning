@@ -1,5 +1,7 @@
 # reinforcement_learning
 
+神经网络框架：pytorch1.4
+
 
 ## 1. DQN
 
