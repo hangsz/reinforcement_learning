@@ -2,6 +2,8 @@
 
 神经网络框架：pytorch1.4
 
+知乎高赞回答：[如何入门强化学习](https://www.zhihu.com/question/277325426/answer/816094591)
+
 
 ## 1. DQN
 
